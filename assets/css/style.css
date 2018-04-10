@@ -65,22 +65,22 @@ button {
     height: 60px;
 }
 
-#mostLeft {
-    background-image: url("./images/leftSecond.jpeg");
+#gem1 {
+    background-image: url("images/leftSecond.jpeg");
     background-color:white;
 }
 
-#leftSecond {
-    background-image: url("./images/leftSecond.jpeg");
+#gem2 {
+    background-image: url("images/leftSecond.jpeg");
     width: 75px;
 }
 
-#rightSecond {
-    background-image: url("./images/rightSecond.jpeg");
+#gem3 {
+    background-image: url("images/rightSecond.jpeg");
 }
 
-#mostRight {
-    background-image: url("./images/mostRight.jpeg");
+#gem4 {
+    background-image: url("images/mostRight.jpeg");
 }
 
 /*----------------------------- 
