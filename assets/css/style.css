@@ -5,6 +5,7 @@ body {
 }
 
 div {
+    padding: 5px;
     margin: 5px;
 }
 
@@ -65,24 +66,6 @@ button {
     height: 60px;
 }
 
-#gem1 {
-    background-image: url("images/leftSecond.jpeg");
-    background-color:white;
-}
-
-#gem2 {
-    background-image: url("images/leftSecond.jpeg");
-    width: 75px;
-}
-
-#gem3 {
-    background-image: url("images/rightSecond.jpeg");
-}
-
-#gem4 {
-    background-image: url("images/mostRight.jpeg");
-}
-
 /*----------------------------- 
        Total Score Board
 -----------------------------*/
@@ -100,4 +83,8 @@ button {
     height:100px;
     width: 180px;
     margin-top: -3px;
+}
+
+#startValue {
+    padding: 10px;
 }
